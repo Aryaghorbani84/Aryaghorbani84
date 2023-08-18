@@ -1,5 +1,5 @@
 def stay_motivated(emotion):
-    if emotion.lower() in ["upset", "frustrated"]:
+    if emotion.lower() in ["upset", "frustrated", "sad", "angry"]:
         print("It's okay to feel upset or frustrated, but remember your goal!")
         print("Take a deep breath and keep moving forward.")
     else:
