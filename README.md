@@ -1,4 +1,6 @@
 Hich...
+HTML, CSS, JS, PY, Ruby, Rust, a small user of Linux and Shell.
 I destroyed my previous GitHub account...
 I love the logic of machines, commandable and quiet.
-Eternal student of artificial intelligence and computer
+Eternal student of artificial intelligence and computer.
+
