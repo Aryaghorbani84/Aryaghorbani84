@@ -16,6 +16,7 @@
 “Code, Learn, and Conquer!”
 I publish that content on my YouTube channel "[https://www.youtube.com/abolfazl_ghorbani][youtube]".
 ---
+<strong>My Email: admin@abolfazl.maskmy.id</strong>
 
 ### 🧰 Languages and Tools
 
@@ -73,8 +74,6 @@ To steer towards this frontier, I am recalibrating my life’s compass now, in t
 
 So, to those who’ve walked with me thus far, know this: The horizon beckons, and I, Abolfazl Ghorbani, am ready to chase it. The architect of dreams, the weaver of code, the unwavering creator—ready to embark upon the quest of once again becoming an app developer. The dream that never faded is now a vision soon to be realized. Await my arrival, for I will spare no effort in pursuit of this renewed calling.
 
-
-<strong My Email: admin@abolfazl.maskmy.id strong>
-
 [website]: https://abolfazlghorbani84.ir
 [youtube]: https://youtube.com/abolfazl_ghorbani
+[Email]: admin@abolfazl.maskmy.id
