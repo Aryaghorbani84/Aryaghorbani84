@@ -48,7 +48,7 @@ I publish that content on my YouTube channel "[https://www.youtube.com/abolfazl_
 
 ### 📊 Stats
 
-![abolfazl's GitHub stats](https://github-readme-stats.vercel.app/api?username=abolfazlghorbani369&show_icons=true&theme=gruvbox)
+![abolfazl's GitHub stats](https://github-readme-stats.vercel.app/api?username=aghorbani84&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=abolfazlghorbani369&theme=gruvbox&border_radius=4.5) -->
 
