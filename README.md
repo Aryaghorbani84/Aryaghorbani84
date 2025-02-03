@@ -14,7 +14,7 @@
 🔍 I invite you to peruse my repositories, collaborate on projects, or simply connect to exchange ideas. Let’s push the boundaries of what’s possible together.
 
 “Code, Learn, and Conquer!”
-I publish that content on my YouTube channel "[https://www.youtube.com/][youtube]".
+I publish that content on my YouTube channel "[https://www.youtube.com/][abolfazl_ghorbani]".
 ---
 <strong>My Email: aghorbani@tuta.io </strong>
 
